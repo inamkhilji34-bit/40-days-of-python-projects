@@ -66,7 +66,7 @@ python main.py
 | 05 | Word Reverser | strings, `split()`, `[::-1]`, `join()` | ✅ Done |
 | 06 | Temperature Converter | functions, dicts, menus | ✅ Done |
 | 07 | Vowel Counter | dicts, string iteration, `char.lower()` | ✅ Done  |
-| 08 | List Statistics | `sum()`, `min()`, `max()`, `any()` | ⬜ Todo |
+| 08 | List Statistics | `sum()`, `min()`, `max()`, `any()` | ✅ Done |
 | 09 | FizzBuzz Pro | modulus, user-defined rules | ⬜ Todo |
 | 10 | Password Strength Checker | `any()`, generator expressions, scoring | ⬜ Todo |
 
@@ -209,4 +209,4 @@ Built as part of a self-directed learning journey combining Python programming w
 
 ---
 
-*Updated daily. Last updated: Day 07 — Vowels Counter ✅*
+*Updated daily. Last updated: Day 08 — List statistics ✅*
