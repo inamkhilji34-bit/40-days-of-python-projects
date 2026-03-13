@@ -67,7 +67,7 @@ python main.py
 | 06 | Temperature Converter | functions, dicts, menus | ✅ Done |
 | 07 | Vowel Counter | dicts, string iteration, `char.lower()` | ✅ Done  |
 | 08 | List Statistics | `sum()`, `min()`, `max()`, `any()` | ✅ Done |
-| 09 | FizzBuzz Pro | modulus, user-defined rules | ⬜ Todo |
+| 09 | FizzBuzz Pro | modulus, user-defined rules | ✅ Done |
 | 10 | Password Strength Checker | `any()`, generator expressions, scoring | ⬜ Todo |
 
 ---
@@ -209,4 +209,4 @@ Built as part of a self-directed learning journey combining Python programming w
 
 ---
 
-*Updated daily. Last updated: Day 08 — List statistics ✅*
+*Updated daily. Last updated: Day 09 — Fizz-Buzz Pro ✅*
