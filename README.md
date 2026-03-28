@@ -79,7 +79,7 @@ python main.py
 | 11 | Shopping Cart CLI | nested dicts, CRUD operations | ✅ Done |
 | 12 | Student Grade Book | dicts + lists, `lambda`, `max()` with key | ✅ Done |
 | 13 | Caesar Cipher | `ord()`, `chr()`, modular arithmetic | ✅ Done |
-| 14 | Number to Words | dicts, integer decomposition | ⬜ Todo |
+| 14 | Number to Words | dicts, integer decomposition | ✅ Done |
 | 15 | Todo List + File Save | file I/O, `open()`, `readlines()`, `writelines()` | ⬜ Todo |
 | 16 | Matrix Operations | NumPy, `np.array()`, `@`, `.T`, `linalg.det()` | ⬜ Todo |
 | 17 | Word Frequency Map | dicts, stopwords, `sorted()` with `lambda` | ⬜ Todo |
@@ -209,4 +209,4 @@ Built as part of a self-directed learning journey combining Python programming w
 
 ---
 
-*Updated daily. Last updated: Day 11 — Day 13: Caesar Cipher ✅*
+*Updated daily. Last updated: Day 11 — Day 14: Number to Words  ✅*
