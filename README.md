@@ -80,7 +80,7 @@ python main.py
 | 12 | Student Grade Book | dicts + lists, `lambda`, `max()` with key | ✅ Done |
 | 13 | Caesar Cipher | `ord()`, `chr()`, modular arithmetic | ✅ Done |
 | 14 | Number to Words | dicts, integer decomposition | ✅ Done |
-| 15 | Todo List + File Save | file I/O, `open()`, `readlines()`, `writelines()` | ⬜ Todo |
+| 15 | Todo List + File Save | file I/O, `open()`, `readlines()`, `writelines()` | ✅ Done |
 | 16 | Matrix Operations | NumPy, `np.array()`, `@`, `.T`, `linalg.det()` | ⬜ Todo |
 | 17 | Word Frequency Map | dicts, stopwords, `sorted()` with `lambda` | ⬜ Todo |
 | 18 | Dot Product and Angle | NumPy, `np.dot()`, `linalg.norm()`, `math.acos()` | ⬜ Todo |
@@ -209,4 +209,4 @@ Built as part of a self-directed learning journey combining Python programming w
 
 ---
 
-*Updated daily. Last updated: Day 11 — Day 14: Number to Words  ✅*
+*Updated daily. Last updated: Day 11 — Day 15: To-Do list + File Save  ✅*
