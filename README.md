@@ -83,7 +83,7 @@ python main.py
 | 15 | Todo List + File Save | file I/O, `open()`, `readlines()`, `writelines()` | ✅ Done |
 | 16 | Matrix Operations | NumPy, `np.array()`, `@`, `.T`, `linalg.det()` | ✅ Done |
 | 17 | Word Frequency Map | dicts, stopwords, `sorted()` with `lambda` | ✅ Done |
-| 18 | Dot Product and Angle | NumPy, `np.dot()`, `linalg.norm()`, `math.acos()` | ⬜ Todo |
+| 18 | Dot Product and Angle | NumPy, `np.dot()`, `linalg.norm()`, `math.acos()` | ✅ Done |
 | 19 | Contact Book | JSON, `json.load()`, `json.dump()`, search | ⬜ Todo |
 | 20 | Python Quiz Game | dicts, scoring, letter grades | ⬜ Todo |
 
@@ -209,4 +209,4 @@ Built as part of a self-directed learning journey combining Python programming w
 
 ---
 
-*Updated daily. Last updated: Day 17 — Day 17: Word Frequency Map  ✅*
+*Updated daily. Last updated: Day 18 — Day 18: Dot Product & Angle  ✅*
