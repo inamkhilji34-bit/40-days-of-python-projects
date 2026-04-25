@@ -85,7 +85,7 @@ python main.py
 | 17 | Word Frequency Map | dicts, stopwords, `sorted()` with `lambda` | ✅ Done |
 | 18 | Dot Product and Angle | NumPy, `np.dot()`, `linalg.norm()`, `math.acos()` | ✅ Done |
 | 19 | Contact Book | JSON, `json.load()`, `json.dump()`, search | ✅ Done |
-| 20 | Python Quiz Game | dicts, scoring, letter grades | ⬜ Todo |
+| 20 | Python Quiz Game | dicts, scoring, letter grades | ✅ Done |
 
 ---
 
@@ -209,4 +209,4 @@ Built as part of a self-directed learning journey combining Python programming w
 
 ---
 
-*Updated daily. Last updated: Day 19 — Day 19: Contacts Book  ✅*
+*Updated daily. Last updated: Day 20 — Day 20: Python Quiz Game  ✅*
