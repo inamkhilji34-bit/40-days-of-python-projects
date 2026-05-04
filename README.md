@@ -95,7 +95,7 @@ python main.py
 |-----|---------|---------------|--------|
 | 21 | Text File Analyzer | file I/O, `collections.Counter`, reading time | ✅ Done |
 | 22 | Matrix Determinant Solver | NumPy, `linalg.det()`, cofactor expansion | ✅ Done |
-| 23 | Weather API App | `requests`, REST APIs, JSON parsing | ⬜ Todo |
+| 23 | Weather API App | `requests`, REST APIs, JSON parsing | ✅ Done |
 | 24 | Expense Tracker + Chart | JSON, `matplotlib`, `plt.pie()` | ⬜ Todo |
 | 25 | Linear Equation Solver | NumPy, `linalg.solve()`, matrix verification | ⬜ Todo |
 | 26 | File Organizer Script | `pathlib`, `shutil`, `os` | ⬜ Todo |
@@ -209,4 +209,4 @@ Built as part of a self-directed learning journey combining Python programming w
 
 ---
 
-*Updated daily. Last updated: Day 22 — Day 22: Matrix Determinant Solver  ✅*
+*Updated daily. Last updated: Day 23 - Weather API app  ✅*
